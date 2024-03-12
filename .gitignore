@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# ignoring model weights
+cancer_weights.h5
+
 # Distribution / packaging
 .Python
 build/
